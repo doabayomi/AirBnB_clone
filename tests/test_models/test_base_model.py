@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Module for test BaseModel class"""
+
 import unittest
 import json
 import pep8
